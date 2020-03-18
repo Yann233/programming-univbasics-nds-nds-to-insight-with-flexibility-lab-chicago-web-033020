@@ -57,7 +57,7 @@ end
 =begin
 i = 0
 while i < movies_collection.length do
- movies_collection[i][:director_name] = name #"人名"=>name
+ movies_collection[i][:director_name] = name 
  i += 1
 end
 movies_collection
